@@ -1,3 +1,9 @@
+"""
+Hello world
+注释
+turtle
+"""
+
 import turtle
 
 #------------------------
